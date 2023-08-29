@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "637201cd51a6dba7504ecfe3"
+  },
+  "point": 100000,
+  "image": "image.png",
+  "type": "Voucher",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63720299f67cfba82603d42d"
+  },
+  "point": 10000,
+  "image": "image.png",
+  "type": "Voucher",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6372063af67cfba82603d5f5"
+  },
+  "point": 1000000,
+  "image": "image.png",
+  "type": "Voucher",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d8d1d4dde6491fd375ed60"
+  },
+  "point": 150000,
+  "image": "image.png",
+  "type": "Giftcard",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d8d2e8351db220700cb582"
+  },
+  "point": 1000000,
+  "image": "image.png",
+  "type": "Giftcard",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f317de571b7c68f264781c"
+  },
+  "point": 200000,
+  "image": "image.png",
+  "type": "Product",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6371db92bb9b817246dd1ec0"
+  },
+  "point": 500000,
+  "image": "image.png",
+  "type": "Product",
+  "createdBy": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "userId": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "description": "tester",
+  "createdAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-14T08:52:29.933Z"
+  },
+  "__v": 0
+}]

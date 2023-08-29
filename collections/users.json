@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "64eb02c5dd1738d6e626d9ab"
+  },
+  "loginAt": {
+    "$date": "2023-08-27T08:01:07.446Z"
+  },
+  "loginType": "email",
+  "email": "wila58@gmail.com",
+  "password": "$2b$10$Kpq2.Hqw2Gp..HDJEGi1pOJg9HH9a4x9L9VuHsRW4mcsBfIhOdmeC",
+  "username": "wila",
+  "name": "wila",
+  "createdAt": {
+    "$date": "2023-08-27T08:01:09.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T08:01:09.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64eb525f0e8cb0b46ada94eb"
+  },
+  "loginAt": {
+    "$date": "2023-08-27T13:40:31.115Z"
+  },
+  "loginType": "email",
+  "email": "admin@yah.com",
+  "password": "$2b$10$/OSpNgY/krShLzOlSHtf1uwi/Ya6BcyagJENb25V7N3JmYcJzOo4m",
+  "username": "wila1",
+  "name": "wila",
+  "createdAt": {
+    "$date": "2023-08-27T13:40:47.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-27T13:40:47.562Z"
+  },
+  "__v": 0
+}]
