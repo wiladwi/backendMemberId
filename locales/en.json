@@ -1,0 +1,100 @@
+{
+	"common": {
+		"default": {
+			"statusCode": 500,
+			"error": "Internal Server Error",
+			"message": "Failed to connect to the server!Please try again soon!"
+		},
+		"unAuth": {
+			"statusCode": 401,
+			"error": "Unauthorized",
+			"message": "Missing authentication"
+		},
+		"locked": {
+			"statusCode": 406,
+			"error": "Locked",
+			"message": "Your account is locked."
+		},
+		"joi": "Invalid Payload %s."
+	},
+	"userLogin": {
+		"description": "API for login with firebase.",
+		"notes": "value will be type specific",
+		"success": {
+			"statusCode": 200,
+			"message": "User successfully logged in."
+		},
+		"existEmail": {
+			"statusCode": 404,
+			"error": "Exists Email",
+			"message": "Provided email id already exist."
+		},
+		"existPhone": {
+			"statusCode": 404,
+			"error": "Exists Phone",
+			"message": "Provided phone number already exist."
+		},
+		"invalidUid": {
+			"statusCode": 412,
+			"error": "Invalid UID",
+			"message": "Invalid UID."
+		},
+		"invalidLogin": {
+			"statusCode": 412,
+			"error": "Invalid Login",
+			"message": "Invalid Login."
+		}
+	},
+	"adminLogin": {
+		"description": "API for admin login.",
+		"notes": "value will be type specific",
+		"success": {
+			"statusCode": 200,
+			"message": "Admin successfully logged in."
+		},
+		"invalidLogin": {
+			"statusCode": 412,
+			"error": "Invalid Login",
+			"message": "Invalid Login."
+		}
+	},
+	"adminResetOtp": {
+		"description": "API for admin send reset password otp.",
+		"notes": "value will be type specific",
+		"success": {
+			"statusCode": 200,
+			"message": "OTP successfully sent."
+		},
+		"notExist": {
+			"statusCode": 404,
+			"error": "Not Exists Admin",
+			"message": "User with provided data does not exist."
+		}
+	},
+	"adminCreate": {
+		"description": "API for create admin.",
+		"notes": "value will be type specific",
+		"success": {
+			"statusCode": 200,
+			"message": "Admin successfully created."
+		},
+		"notExistUserRole": {
+			"statusCode": 404,
+			"error": "User Role Not Exist",
+			"message": "User Role Not Exist."
+		},
+		"existEmail": {
+			"statusCode": 412,
+			"error": "Exists Email",
+			"message": "User already exist with provided data."
+		}
+	},
+	"fileUpload": {
+		"description": "API for upload file.",
+		"notes": "value will be type specific",
+		"success": {
+		  "statusCode": 200,
+		  "message": "File successfully uploaded."
+		}
+	}
+}
